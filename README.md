@@ -1,2 +1,2 @@
-# Personal_Site
-This is my first ever site which I can call an actual website
+# Cloned Personal Website
+Website made by following a course module with minor changes.
